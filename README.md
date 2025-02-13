@@ -33,11 +33,11 @@ The **Smart Factory Optimization System** is an **IoT-based solution** designed 
 ## 🤝 Contributing
 ### **Want to contribute? Follow these steps:**
 
-✅ Fork the repository
-✅ Create a feature branch (git checkout -b feature-name)
-✅ Commit changes (git commit -m "Added new feature")
-✅ Push to GitHub (git push origin feature-name)
-✅ Create a Pull Request
+✅ Fork the repository.
+✅ Create a feature branch (git checkout -b feature-name).
+✅ Commit changes (git commit -m "Added new feature").
+✅ Push to GitHub (git push origin feature-name).
+✅ Create a Pull Request.
 
 ---
 
