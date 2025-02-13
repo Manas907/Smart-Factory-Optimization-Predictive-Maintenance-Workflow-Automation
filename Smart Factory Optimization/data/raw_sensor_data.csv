@@ -1,0 +1,4 @@
+Timestamp	Temperature (°C)	Vibration (m/s²)	Machine Status
+2025-02-03 12:00:00	45.3	1.2	running
+2025-02-03 12:00:02	50.7	1.5	running
+2025-02-03 12:00:04	72.1	3.4	fault
