@@ -30,26 +30,29 @@ The **Smart Factory Optimization System** is an **IoT-based solution** designed 
  ┣ 📜 `.gitignore` → Ignored files  
 
 ---
-
-## ⚙️ Installation & Setup
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/yourusername/Smart-Factory-Optimization.git
-cd Smart-Factory-Optimization
-pip install -r requirements.txt
-python src/sensor_data.py
-python src/data_processing.py
-python src/downtime_prediction.py
-python src/dashboard.py
-python -m unittest tests/test_system.py
-
----
-
 ## 🤝 Contributing
-### Want to contribute? Follow these steps:
+### **Want to contribute? Follow these steps:**
 
 Fork the repository
 Create a feature branch (git checkout -b feature-name)
 Commit changes (git commit -m "Added new feature")
 Push to GitHub (git push origin feature-name)
 Create a Pull Request
+
+---
+
+## ⚙️ Installation & Setup
+### 1️⃣ Clone the Repository  
+```sh
+ git clone https://github.com/yourusername/Smart-Factory-Optimization.git
+ cd Smart-Factory-Optimization
+ pip install -r requirements.txt
+ python src/sensor_data.py
+ python src/data_processing.py
+ python src/downtime_prediction.py
+ python src/dashboard.py
+ python -m unittest tests/test_system.py
+
+---
+
+
